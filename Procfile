@@ -1,0 +1,1 @@
+web: gunicorn Calculate_Nutritions.wsgi --log-file -
